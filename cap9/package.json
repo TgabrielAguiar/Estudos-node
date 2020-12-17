@@ -1,0 +1,17 @@
+{
+  "name": "cap6",
+  "version": "1.0.0",
+  "description": "Acessar o banco de dados:\r mysql -h 'servidor' -u 'usuario' -p\r Exemplo: mysql -h localhost -u root -p\r Em seguida digitar a senha do usuário root no banco de dados.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel Aguiar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
